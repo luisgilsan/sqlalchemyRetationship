@@ -21,11 +21,4 @@ python main.py
 ```
 Visualiza la base de datos para apreciar las relaciones creadas.
 
-Expresiones de Gratitud 🎁
-Comenta a otros sobre este proyecto 📢
-Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
-Da las gracias públicamente 🤓.
-etc.
-
-
-* Proyecto hecho con ❤️
+Proyecto hecho con ❤️
